@@ -34,7 +34,7 @@ Make sure you have Python installed on your system. It is highly recommended to 
 
 1. **Clone the repository** (if applicable) or download the source code:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Manav1918/fastapi-face-tracker.git
    cd "FastAPI cam"
    ```
 
